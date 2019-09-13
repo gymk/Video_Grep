@@ -1,2 +1,2 @@
 # Video_Grep
-A Subtitle Based Video Content Engine
+A Subtitle Based Video Content Search Engine
